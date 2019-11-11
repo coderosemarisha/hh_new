@@ -5,3 +5,5 @@ You must install tkinter.
 
 
 After running, parsed data saving in file csv and plot automatically saved in file png to your current directory.
+
+![Иллюстрация к проекту](pic/Median_salary.png)
